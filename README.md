@@ -1,2 +1,2 @@
 # python-shopping-system
-python shopping system
+product madule
